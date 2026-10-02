@@ -1,0 +1,15 @@
+This is a rough desin for an apple store app design
+
+Operating Systems
+
+Suppliers
+
+Developers
+
+App Categories
+
+Apps
+
+Apps_in_categories
+
+Apps_in_OperatingSystems
